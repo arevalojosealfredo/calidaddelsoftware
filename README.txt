@@ -1,0 +1,12 @@
+Santa Marta, Sábado 31 de Octubre de 2020
+
+Notas priliminares:
+
+1. Para ver adecuadamente el mockup, por favor abrir el archivo index.html
+2. Al abril el archivo index.html, por favor instalar la "extensión de Axure RP" en el navegador para poder visualizar el proyecto. (El mockup fue hecho en este software)
+
+------------------------
+
+El presente documento constituye la memoria del Proyecto Final del módulo Calidad en Ingeniería del Software realizado por los estudiantes Jose Garibaldi Bandera, Arnobis Segundo Meléndez y Jose Alfredo Arevalo, alumnos de Posgrado en la Especialización en Desarrollo de Software de la Universidad del Magdalena, Santa Marta, Colombia. Este documento tiene como propósito detallar la labor realizada durante el periodo de diseño del Proyecto Final de dicho módulo, que consiste en un mockup que despliega las teóricas ventanas que una posible empresa de evaluación en calidad de software podría utilizar en su campo de acción. El mockup ofrece una interacción lo más cercana posible a una experiencia de usuario de fácil uso. En ella, un posible evaluador puede usar el modelo de calidad ISO 9126, asignar características, sub características y atributos para llevar acabo la evaluación; asimismo, calibrar las métricas, criterios de aceptación, agregación de ambientes de prueba y registro de valores para las métricas.
+
+La presente investigación tiene como objetivo el diseño de un mockup, que permite explicar el posible funcionamiento del proceso de evaluación en la calidad del software dentro de una hipotética empresa cuya misión es precisamente esa, la de evaluar productos de software al que llegan compañías y empresas solicitantes de este servicio. La utilización del mockup permite dirigir la atención a la gestión de evaluaciones que se presenten en la compañía, suministrándose como una herramienta que ayude al evaluador en cada una de las fases en el ciclo de evaluación, con el fin de que pueda aligerar el proceso del hipotético diagnóstico del producto software. El proceso de diseño del mockup se realizó sobre Axure RP 8 Enterprise Edition sobre el cual se construyeron cada una de las ventanas de la misma, con una secuencia estructurada dependiendo de la acción que realiza el usuario en el mockup.
